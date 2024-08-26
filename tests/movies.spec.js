@@ -1,4 +1,4 @@
-const movies = require('../src/data');
+const movies = require('../src/data');    
 const {
   getAllDirectors,
   howManyMovies,
